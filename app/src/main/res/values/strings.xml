@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PrimeQuiz</string>
+    <string name="question">Is the following number prime or not?</string>
+    <string name="trueText">Yes!</string>
+    <string name="falseText">No!</string>
+    <string name="randomNo">42</string>
+    <string name="next">"Next</string>
+</resources>
